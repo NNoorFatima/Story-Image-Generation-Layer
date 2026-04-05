@@ -1,3 +1,6 @@
 venv/
 outputs/
 .env
+tool_registry/__pycache__
+agents/__pycache__
+__pycache__
