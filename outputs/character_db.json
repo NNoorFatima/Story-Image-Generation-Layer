@@ -1,0 +1,48 @@
+{
+  "characters": [
+    {
+      "name": "Mapmaker",
+      "personality_traits": [
+        "determined",
+        "concerned",
+        "intuitive"
+      ],
+      "appearance_description": "likely dressed in practical clothing and carrying maps and surveying tools, with a look of focus and intensity on her face",
+      "reference_style": "realistic",
+      "image_path": "outputs/images/mapmaker.png"
+    },
+    {
+      "name": "Child",
+      "personality_traits": [
+        "imaginative",
+        "sensitive",
+        "mysterious"
+      ],
+      "appearance_description": "youthful and curious, with a faraway look in their eyes, possibly dressed in warm and layered clothing for the cold mountain environment",
+      "reference_style": "stylized",
+      "image_path": "outputs/images/child.png"
+    },
+    {
+      "name": "Historian",
+      "personality_traits": [
+        "skeptical",
+        "curious",
+        "knowledgeable"
+      ],
+      "appearance_description": "likely dressed in more formal or scholarly attire, with a look of intellectual curiosity on his face",
+      "reference_style": "realistic",
+      "image_path": "outputs/images/historian.png"
+    },
+    {
+      "name": "Travelers",
+      "personality_traits": [
+        "adventurous",
+        "confident",
+        "cautious"
+      ],
+      "appearance_description": "dressed in practical clothing and gear for traveling, with a sense of excitement and trepidation on their faces",
+      "reference_style": "realistic",
+      "image_path": "outputs/images/travelers.png"
+    }
+  ]
+}

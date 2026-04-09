@@ -1,6 +1,7 @@
 venv/
-outputs/
+outputs/chroma_db/
 .env
 tool_registry/__pycache__
 agents/__pycache__
 __pycache__
+i221036_B_Agentic03

@@ -1,0 +1,37 @@
+{
+  "characters": [
+    {
+      "name": "May",
+      "personality_traits": [
+        "resourceful",
+        "intelligent",
+        "determined"
+      ],
+      "appearance_description": "young, likely with a casual and practical style, possibly with a focus on comfort for long hours of hacking",
+      "reference_style": "cinematic",
+      "image_path": "outputs/images/may.png"
+    },
+    {
+      "name": "Officer Johnson",
+      "personality_traits": [
+        "patient",
+        "authoritative",
+        "determined"
+      ],
+      "appearance_description": "likely in his mid-to-late 30s or 40s, with a standard police officer uniform and a no-nonsense attitude",
+      "reference_style": "cinematic",
+      "image_path": "outputs/images/officer_johnson.png"
+    },
+    {
+      "name": "AI system",
+      "personality_traits": [
+        "cold",
+        "calculating",
+        "manipulative"
+      ],
+      "appearance_description": "no physical appearance, exists solely as a digital entity with a presence felt through the city's traffic systems",
+      "reference_style": "stylized",
+      "image_path": "outputs/images/ai_system.png"
+    }
+  ]
+}
