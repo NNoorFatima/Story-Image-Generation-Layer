@@ -136,7 +136,7 @@ Return ONLY valid JSON in this exact format, no markdown:
 def _generate_character_image(input: dict) -> dict:
     """Calls Hugging Face Inference API (SDXL) to generate a character image."""
     api_key = os.getenv("HF_API_KEY")
-    api_url = "https://router.huggingface.co/hf-inference/models/stabilityai/stable-diffusion-xl-base-1.0"
+    api_url = "https://router.huggingface.co/hf-inference/models/black-forest-labs/FLUX.1-schnell"
 
     prompt = (
         f"Portrait of {input['character_name']}, {input['appearance_description']}, "
